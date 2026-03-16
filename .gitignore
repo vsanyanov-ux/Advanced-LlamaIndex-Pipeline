@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+
+# IDEs
+.vscode/
+.idea/
+
+# RAG specific
+chroma_db/
+storage/
+
+# Environment variables
+.env
+
+# OS
+.DS_Store
+Thumbs.db
